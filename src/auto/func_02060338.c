@@ -1,0 +1,9 @@
+#include "m2c.h"
+
+M2C_UNK func_0205eb7c(M2C_UNK, M2C_UNK);            /* extern */
+M2C_UNK func_020600a0();                            /* extern */
+
+void func_02060338(M2C_UNK arg0) {
+    func_020600a0();
+    func_0205eb7c(arg0, -1);
+}
