@@ -8910,3 +8910,7 @@ src/auto/func_020cb0d4.c:
 src/auto/func_02060bfc.c:
     complete
     .text       start:0x02060bfc end:0x02060c20
+
+src/auto/func_02070188.c:
+    complete
+    .text       start:0x02070188 end:0x020701a4
