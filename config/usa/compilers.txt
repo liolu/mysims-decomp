@@ -324,3 +324,13 @@ src/auto/func_02032d0c.c 2.0/sp1p5 -O4,p -lang c99 -ipa file -inline on,noauto
 src/auto/func_02042d5c.c 1.2/sp2p3 -O4,s
 src/auto/func_02056400.c 2.0/sp1p5 -O4,s
 src/auto/func_020711cc.c 2.0/sp1p5 -O4,s
+src/auto/func_0200819c.c 2.0/sp1p5 -flag opt_repositioncode
+src/auto/func_02008f00.c 2.0/sp1p5 -flag no-opt_common_subs
+src/auto/func_02039694.c 2.0/sp1p5 -flag no-opt_common_subs
+src/auto/func_0204ed54.c 2.0/sp1p5 -flag no-opt_common_subs
+src/auto/func_0204fe08.c 2.0/sp1p5 -flag no-opt_rebuildlogicals
+src/auto/func_02058db8.c 2.0/sp1p5 -flag no-opt_arithtransformation
+src/auto/func_02058dd4.c 2.0/sp1p5 -flag no-opt_arithtransformation
+src/auto/func_0207027c.c 2.0/sp1p5 -flag no-opt_rebuildlogicals
+src/auto/func_020702a8.c 2.0/sp1p5 -flag no-opt_rebuildlogicals
+src/auto/func_020826c4.c 2.0/sp1p5 -flag no-opt_strength_reduction
