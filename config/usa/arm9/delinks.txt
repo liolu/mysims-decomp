@@ -10395,3 +10395,15 @@ src/auto/func_020c7ef4.c:
     complete
     .text       start:0x020c7ef4 end:0x020c7f24
 
+
+src/auto/func_02042d5c.c:
+    complete
+    .text       start:0x02042d5c end:0x02042d90
+
+src/auto/func_02056400.c:
+    complete
+    .text       start:0x02056400 end:0x02056450
+
+src/auto/func_020711cc.c:
+    complete
+    .text       start:0x020711cc end:0x02071204
